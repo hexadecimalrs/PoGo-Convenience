@@ -1,1 +1,0 @@
-Vulpix&cp10,cp34,cp57,cp81,cp104,cp127,cp151,cp174,cp197,cp221,cp243,cp265,cp287,cp309,cp331,cp353,cp375,cp398,cp420,cp442,cp464,cp486,cp508,cp530,cp552,cp575,cp597,cp619,cp641,cp663
