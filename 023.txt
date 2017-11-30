@@ -1,0 +1,1 @@
+Ekans&cp11,cp34,cp58,cp81,cp105,cp128,cp152,cp175,cp199,cp222,cp244,cp266,cp289,cp311,cp333,cp355,cp378,cp400,cp422,cp444,cp467,cp489,cp511,cp533,cp556,cp578,cp600,cp622,cp645,cp667

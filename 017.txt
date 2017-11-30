@@ -1,0 +1,1 @@
+Pidgeotto&cp15,cp48,cp80,cp113,cp146,cp179,cp211,cp244,cp277,cp310,cp341,cp372,cp403,cp434,cp465,cp496,cp527,cp558,cp589,cp620,cp651,cp682,cp713,cp744,cp775,cp806,cp837,cp868,cp899,cp930
