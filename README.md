@@ -19,6 +19,6 @@ You're only able to use one string at a time. Meaning you can't check multiple p
 
 ~~I may add strings to show non-100 pokemon as well, to make some easier to trash.~~
 
-Added trash IV strings in /Trash IV strings/!
+## Added trash IV strings in /Trash IV strings/!
 
 **WARNING** If you have powered up pokemon, they may be perfect and still show up here. Hopefully you've starred all the good ones!
