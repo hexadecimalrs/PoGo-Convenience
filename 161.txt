@@ -1,1 +1,0 @@
-Sentret&cp10,cp23,cp38,cp54,cp70,cp85,cp101,cp117,cp132,cp148,cp163,cp178,cp192,cp207,cp222,cp237,cp252,cp267,cp281,cp296,cp311,cp326,cp341,cp356,cp370,cp385,cp400,cp415,cp430,cp445

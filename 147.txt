@@ -1,1 +1,0 @@
-Dratini&cp12,cp38,cp64,cp90,cp116,cp142,cp168,cp194,cp219,cp245,cp270,cp295,cp319,cp344,cp368,cp393,cp418,cp442,cp467,cp491,cp516,cp540,cp565,cp590,cp614,cp639,cp663,cp688,cp713,cp737

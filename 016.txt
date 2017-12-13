@@ -1,1 +1,0 @@
-Pidgey&cp10,cp25,cp43,cp60,cp78,cp95,cp113,cp130,cp148,cp165,cp182,cp199,cp215,cp232,cp248,cp265,cp282,cp298,cp315,cp331,cp348,cp365,cp381,cp398,cp414,cp431,cp448,cp464,cp481,cp497

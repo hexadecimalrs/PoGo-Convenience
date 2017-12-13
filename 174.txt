@@ -1,1 +1,0 @@
-Igglybuff&cp10,cp22,cp38,cp53,cp69,cp84,cp100,cp115,cp131,cp146,cp161,cp175,cp190,cp205,cp219,cp234,cp249,cp263,cp278,cp293,cp307,cp322,cp337,cp351,cp366,cp380,cp395,cp410,cp424,cp439

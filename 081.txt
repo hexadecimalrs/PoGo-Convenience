@@ -1,1 +1,0 @@
-Magnemite&cp15,cp48,cp80,cp113,cp146,cp178,cp211,cp244,cp277,cp309,cp340,cp371,cp402,cp433,cp464,cp495,cp526,cp557,cp588,cp619,cp650,cp681,cp712,cp743,cp774,cp805,cp836,cp867,cp898,cp929

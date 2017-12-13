@@ -1,1 +1,0 @@
-Sandshrew&cp16,cp52,cp89,cp125,cp161,cp197,cp233,cp269,cp305,cp341,cp375,cp409,cp443,cp477,cp512,cp546,cp580,cp614,cp648,cp682,cp716,cp750,cp785,cp819,cp853,cp887,cp921,cp955,cp989,cp1023
