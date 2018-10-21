@@ -1,7 +1,7 @@
 # PoGo-Convenience
 Repository for search strings in Pokemon Go to search for 100% IV wild pokemon. Includes every pokemon gen 1-3.
 
-##UPDATE Oct 21, 2018
+#UPDATE Oct 21, 2018
 Use https://www.hundoiv.com/ for specific search strings. It does a better job than this repository since it includes hp and you can copy easily.
 
 **THIS WILL NOT SHOW ONLY 100% IV POKEMON.** This will show pokemon that have a CP matching that of a 100% IV pokemon. This is because of how CP works. e.g. if a 100% IV pokemon has 400 CP at level 15, that same pokemon might also hit 400 CP at level 16 or 17. You will need to appraise the pokemon shown by the search to see if they truly are 100% IV.
