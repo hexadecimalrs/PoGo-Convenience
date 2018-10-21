@@ -1,6 +1,10 @@
 ## UPDATE Oct 21, 2018
 Use https://www.hundoiv.com/ for currently relevant search strings. You can use http://ark42.com/pogo/search.php as well to generate a variety of different search strings. They both do a better job than this repository since you can copy easily and they have a bit more accurate strings (e.g. including hp).
 
+If you want to contact me for whatever reason:
+Discord: Hexadecimal#3737
+Twitter: @HexadecimalRS
+
 # PoGo-Convenience
 Repository for search strings in Pokemon Go to search for 100% IV wild pokemon. Includes every pokemon gen 1-3.
 
