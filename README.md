@@ -1,3 +1,6 @@
+## UPDATE Oct 28, 2018
+Added Gen 4 + fixed some issues (trash strings didn't include one certain cp range)
+
 ## UPDATE Oct 21, 2018
 Use https://www.hundoiv.com/ for currently relevant search strings. You can use http://ark42.com/pogo/search.php as well to generate a variety of different search strings. They both do a better job than this repository since you can copy easily and they have a bit more accurate strings (e.g. including hp).
 
