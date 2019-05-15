@@ -1,4 +1,4 @@
-## UPDATE May 5, 2019
+## UPDATE May 14, 2019
 Updated Perfect CP strings - added HP values
 
 Updated Trash strings code but don't think any changed in the process (I think that's a good thing)
