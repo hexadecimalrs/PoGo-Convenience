@@ -1,7 +1,7 @@
 ## UPDATE May 5, 2019
 Updated Perfect CP strings - added HP values
 
-Might update trash strings later (idk if I need to)
+Updated Trash strings code but don't think any changed in the process (I think that's a good thing)
 
 ## UPDATE Nov 22, 2018
 Updated CPs for stat rework. Some trash strings might be broken, idk. Let me know.
