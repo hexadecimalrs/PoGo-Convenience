@@ -1,5 +1,5 @@
 ## UPDATE July 15, 2019
-Pokemon Go version 0.149.0 changed the Appraisal system and added new search strings - 1*, 2*, 3*, and 4*. Searching "4*" will show only 100% IV pokemon.
+Pokemon Go version 0.149.0 changed the Appraisal system and added new search strings - 0*, 1*, 2*, 3*, and 4*. Searching "4*" will show only 100% IV pokemon.
 
 Source: https://twitter.com/LeekDuck/status/1150904793252139010?s=20
 
